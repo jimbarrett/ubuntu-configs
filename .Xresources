@@ -1,0 +1,22 @@
+#include ".xcolors/chalk"
+
+rofi.color-window: argb:dd282828, #d79921, #d79921
+rofi.color-normal: argb:8c282828, #ffffff, argb:96282828, #d79921, #ffffff
+rofi.color-urgent: argb:8c282828, #bcbcbc, argb:96282828, #d79921, #bcbcbc
+rofi.color-active: argb:8c282828, #bcbcbc, argb:96282828, #d79921, #bcbcbc
+rofi.lines: 5
+rofi.columns: 1
+rofi.bw: 0
+rofi.padding: 200
+rofi.eh: 2
+rofi.hide-scrollbar`: true
+rofi.fullscreen : true
+
+!urxvt
+URxvt.background:  #000000
+URxvt.foreground: #699000
+URxvt.cursorColor: #699000
+URxvt.letterSpace: -1
+URxvt.font: xft:Hack:size=10
+URxvt.scrollBar: false
+URxvt.depth: 32
