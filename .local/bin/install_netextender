@@ -1,0 +1,5 @@
+curl -LO https://software.sonicwall.com/NetExtender/NetExtender.Linux-10.2.835.x86_64.tgz
+tar zxvf NetExtender.Linux-10.2.835.x86_64.tgz
+rm NetExtender.Linux-10.2.835.x86_64.tgz
+cd netExtenderClient
+sudo ./install

@@ -1,0 +1,2 @@
+export TERM=xterm
+~/payara5/bin/asadmin stop-domain
